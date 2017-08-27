@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TableTest</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">1955008511409923</string>
+    <string name="fb_login_protocol_scheme">fb1955008511409923</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_reservation">Reservation</string>
+    <string name="title_clubs">Clubs</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
